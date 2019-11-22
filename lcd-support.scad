@@ -112,7 +112,7 @@ module left_lcd_support()
 
 module right_lcd_support()
 {
-    translate([0,-6,0]) rotate([0,180,180]) 
+    translate([0,-6,10]) rotate([0,180,180]) 
     union(){
         support();
         translate([-64,12,-30]) 
