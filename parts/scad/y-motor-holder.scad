@@ -35,7 +35,7 @@ belt_side_hole_d= 15;
 
 //bearing
 b_id = 5;
-b_od = 16;
+b_od = 14;
 b_thck = 5;
 
 // profile
